@@ -1,0 +1,39 @@
+
+/*
+i cant get my image to be the background of the site. Tried background-image and background. 
+*/
+
+body {
+	background: url("broom-street-mouse.jpg");
+}
+body {
+	font-family: sans-serif;
+	font-size: 11px;
+	text-transform: normal;
+}
+
+p {
+	font-family: sans-serif;
+	font-size: 11px;
+	text-transform: normal;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: sans-serif;
+	font-weight: lighter;
+	text-transform: uppercase;
+}
+
+h2 {
+	font-weight: lighter;
+	text-transform: uppercase;
+	font-style: italic;
+}
+
+body{
+	font-family: sans-serif;
+	font-weight: lighter;
+}
+
+
