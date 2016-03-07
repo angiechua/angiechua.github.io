@@ -1,0 +1,38 @@
+/*
+	body {
+		background-position: center
+		background-image: url("angie mural large.jpg");
+		background-size: cover;
+	}
+	*/
+
+	@import url(https://fonts.googleapis.com/css?family=Anton);
+	@import url(https://fonts.googleapis.com/css?family=Raleway+Dots);
+
+	body	{
+		font-size: 35px;
+		font-family: 'Anton', sans-serif;
+		font-weight: black;
+		text-align: center
+	}
+
+	h1 {
+		color: #e20000;
+	}
+
+	h3 {
+		font-size: 20px;
+		font-family: 'Raleway Dots', cursive;
+		line-height: 2em;
+		margin-bottom: 10px;
+		margin-right: 150px;
+		margin-left: 150px;
+	
+	}
+
+	p {
+		font-size: 14px;
+		font-family: 'Anton', sans-serif;
+		font-weight: normal;
+		text-align: center
+	}
